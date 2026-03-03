@@ -2,7 +2,7 @@ name: Mon Premier Workflow
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   hello-world:
